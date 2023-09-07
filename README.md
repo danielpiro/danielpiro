@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Daniel Piro.
-- 💻 Software Engineer Student at Ribbon Communications.
-- 🎓 Software Engineering Student at BGU.
+- 💻 Software Engineer.
+- 🎓 Software Engineering Graduate from BGU.
