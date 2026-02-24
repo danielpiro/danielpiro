@@ -2,10 +2,10 @@
 <h3 align="center">Senior Software Engineer</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN/">
+  <a href="[https://www.linkedin.com/in/YOUR-LINKEDIN/](https://www.linkedin.com/in/danielpiro2/)">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:YOUR-EMAIL">
+  <a href="mailto:danielpiro2@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
@@ -41,14 +41,6 @@ Currently exploring AI-driven solutions for real-world business problems.
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-
----
-
-### What I'm Working On
-
-- 🚀 Building **BeverageAI** — an AI-powered inventory management platform for the beverage retail industry
-- 🧠 Exploring applied AI/ML for business automation
-- 🛠️ Always prototyping, always shipping
 
 ---
 
