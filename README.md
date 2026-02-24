@@ -2,7 +2,7 @@
 <h3 align="center">Senior Software Engineer</h3>
 
 <p align="center">
-  <a href="[https://www.linkedin.com/in/YOUR-LINKEDIN/](https://www.linkedin.com/in/danielpiro2/)">
+  <a href="https://www.linkedin.com/in/danielpiro2/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:danielpiro2@gmail.com">
